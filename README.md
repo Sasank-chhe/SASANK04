@@ -46,13 +46,13 @@ CONTACT WITH <a href="https://github.com/Sasank-chhe"><b>MR. SSC4 </a> </br><br>
 
 
 
-    <img alt="Language" src="https://img.shields.io/github/languages/count/Sasank-chhe.svg"/>
+
 
   </a>
 
   <a href="https://github.com/Sasank-chhe">
 
-    <img alt="Starts" src="https://img.shields.io/github/stars/Sasank-chhe.svg"/>
+
 
   </a>
 
@@ -60,7 +60,7 @@ CONTACT WITH <a href="https://github.com/Sasank-chhe"><b>MR. SSC4 </a> </br><br>
 
 <a href="https://github.com/Sasank-chhe">
 
-    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Sasank-chhe..svg"/>
+
 
   </a>
 
