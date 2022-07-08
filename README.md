@@ -34,17 +34,17 @@ CONTACT WITH <a href="https://github.com/Sasank-chhe"><b>MR. SSC4 </a> </br><br>
 
 <br>
 
-  <a href="https://github.com/Sasank Vai/termux-style/stargazers/">
 
-  <a href="https://github.com/Sasank-chhe">
 
-    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Sasank-chhe.svg"/>
 
-  </a>
 
-<br>
 
-  <a href="https://github.com/Azim-vau/uidcr3k">
+
+
+
+
+
+
 
     <img alt="Language" src="https://img.shields.io/github/languages/count/Sasank-chhe.svg"/>
 
