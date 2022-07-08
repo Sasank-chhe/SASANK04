@@ -14,7 +14,7 @@
 
 <a href="https://chat.whatsapp.com/HDwWCxOCiofEiohIuwjv19"><img src="https://github.com/Sasank-chhe/Sasank-chhe/blob/main/IMAGE/whatsapp.png" alt="alt text" width="25" height="25"></a>
 
-<a href="https://www.facebook.com/SASANK04" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/MrError69"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
+<a href="https://www.facebook.com/SASANK04" target="_blank"><img src="https://github.com/Sasank-chhe/Sasank-chhe/blob/main/IMAGE/facebook.png" alt="alt text" width="25" height="25"></a> <a href="https://youtube.com/channel/UCUYoS0NYj1OMM2KrbEgE-kw"><img src="https://github.com/Sasank-chhe/Sasank-chhe/blob/main/IMAGE/youtube.png" alt="alt text" width="25" height="25"></a> 
 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;
 
